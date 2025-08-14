@@ -12,7 +12,8 @@ This project is a **fully interactive Excel dashboard** built using **AdventureW
 
 <img width="1517" height="876" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/5c543a29-9f05-4d8f-bce6-dff9c2696970" />
 
-<img width="1673" height="861" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/25342db4-59d8-4092-8754-87d525c81341" />
+<img width="1664" height="846" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/441226e5-d478-4e37-b7eb-0917bfe9a797" />
+
 
 ---
 
