@@ -16,10 +16,6 @@ This project is a **fully interactive Excel dashboard** built using **AdventureW
 
 ---
 
-## **📂 Repository Structure**  
-
----
-
 ## **📊 Key Insights from Analysis**  
 
 ### **1️⃣ Annual Sales Performance**  
