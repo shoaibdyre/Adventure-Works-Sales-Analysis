@@ -1,4 +1,4 @@
-# **AdventureWorks Sales Data Analysis Dashboard**  
+# **Adventure Works Sales Data Analysis Dashboard**  
 **📊 Advanced Excel Dashboard with PivotTables, Macros & Dynamic Visualizations**  
 
 ## **🔍 Overview**  
