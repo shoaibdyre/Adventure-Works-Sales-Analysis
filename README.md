@@ -1,2 +1,15 @@
-# Adventure-Works-Sales-Analysis
-A dynamic, multi-sheet Excel dashboard analyzing AdventureWorks sales data, featuring interactive PivotTables, macros, and advanced visualizations for business intelligence insights.
+##AdventureWorks Excel Data Analysis Dashboard  
+Advanced Excel Dashboard with PivotTables, Macros & Dynamic Visualizations  
+
+##🔍 Overview  
+This project is a fully interactive Excel dashboard built using AdventureWorks dataset from Microsoft 
+It includes:  
+✔ Multi-sheet dynamic dashboards** with slicers & macros  
+✔ Deep sales performance analysis** (revenue, profit, customer trends)  
+✔ Time-series forecasting** (weekly, quarterly, yearly trends)  
+✔ Customer segmentation** (demographics, top buyers, gender analysis)  
+✔ Geographic & product-based insights** (country performance, pricing categories)  
+
+---
+
+## **📂 Repository Structure**  
